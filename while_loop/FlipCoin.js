@@ -1,0 +1,18 @@
+function headOrTail(){
+    while ( head != 11 && tail != 11){
+        let random = Math.floor(Math.random() * 10 ) % 2;
+            if (random === 0 )
+                head++;
+            else
+                tail++;
+    }
+    }
+    
+    let head = 0;
+    let tail = 0;
+    headOrTail();
+    
+    if (head === 11 ) 
+        console.log("Head Won"); 
+    else
+        console.log("Tail Won");
