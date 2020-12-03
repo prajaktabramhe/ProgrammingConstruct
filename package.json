@@ -1,0 +1,22 @@
+{
+  "name": "programmingconstruct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajaktabramhe/ProgrammingConstruct.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajaktabramhe/ProgrammingConstruct/issues"
+  },
+  "homepage": "https://github.com/prajaktabramhe/ProgrammingConstruct#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
